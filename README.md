@@ -10,3 +10,10 @@ of the classes in C++, by providing constructor, distructor, operators and givin
 be performed.
 
 You can run this project by simply downloading the problem 2 and Project18 directories and running them in a C++ IDE, preferably C Lion or VS Community.
+
+![Capture5](https://github.com/DragosTrandafir/ComplexNumbers/assets/62999548/a409c200-9374-4190-90c1-ed6900007339)
+![Capture6](https://github.com/DragosTrandafir/ComplexNumbers/assets/62999548/a0669e88-f45b-4d8f-98d1-41b866c4b3b5)
+![Capture7](https://github.com/DragosTrandafir/ComplexNumbers/assets/62999548/6646c9d0-4c95-4815-9d65-2d099bb92001)
+![Capture8](https://github.com/DragosTrandafir/ComplexNumbers/assets/62999548/a50e560b-4cf5-4453-854d-70be347c243e)
+![Capture9](https://github.com/DragosTrandafir/ComplexNumbers/assets/62999548/a32b0851-e6f6-43e2-811a-55461a30cb13)
+
