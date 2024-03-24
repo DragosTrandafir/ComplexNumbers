@@ -1,7 +1,7 @@
 Using C++ classes to perform complex number operations and displaying Mandelbrot sequence.
 
 The Project18 directory contains the header, the implementation and the main file , which shows how a complex number class can be
-created and used. Also, the main file shows the Mandelbrot sequence representation of comnplex numbers, which is quite interesting to
+created and used. Also, the main file shows the Mandelbrot sequence representation of complex numbers, which is quite interesting to
 observe.
 MORE DETAILS are provided in the documentation available in the files.
 
