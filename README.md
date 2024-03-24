@@ -9,7 +9,7 @@ The problem 2 directory is a more basic implementation of a bank account class, 
 of the classes in C++, by providing constructor, distructor, operators and giving examples of a few operations which can
 be performed.
 
-You can run this project by simply downloading the problem 2 and Project18 directories and running them in a C++ IDE, preferably C Lion or VS Community.
+You can run this project by simply downloading the problem 2 and Project18 directories and running them (main.cpp file) in a C++ IDE, preferably C Lion or VS Community.
 
 ![Capture5](https://github.com/DragosTrandafir/ComplexNumbers/assets/62999548/a409c200-9374-4190-90c1-ed6900007339)
 ![Capture6](https://github.com/DragosTrandafir/ComplexNumbers/assets/62999548/a0669e88-f45b-4d8f-98d1-41b866c4b3b5)
